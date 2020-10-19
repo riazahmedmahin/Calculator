@@ -1,3 +1,5 @@
+# Simple Digital Clock in Python 3 for Beginners
+# By @mahin
 import tikinder as tk
 import time as tm
 def display_time():
